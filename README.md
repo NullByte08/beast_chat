@@ -1,16 +1,10 @@
-# beastchat
+# Beast Chat  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Tiger_Icon.svg/1200px-Tiger_Icon.svg.png" alt="alt text" width="50" height="50"> 
 
-A new Flutter project.
+A simple chat app that uses Firebase Firestore as backend.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Note
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+This repository does not include google-services.json file, to protect sensitive account details. You can clone this repository and create your an account on Firebase console to retrieve a new google-services.json
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
