@@ -1,8 +1,8 @@
-# Beast Chat  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Tiger_Icon.svg/1200px-Tiger_Icon.svg.png" alt="alt text" width="50" height="50"> 
+# Beast Chat  <img src="https://www.pngjoy.com/pngs/300/5682015_tiger-icon-simple-drawing-of-tiger-png-download.png" alt="alt text" width="50" height="50"> 
 
 A simple chat app that uses Firebase Firestore as backend.
 
-
+![](beast_chat_gif.gif)
 
 ## Note
 
